@@ -1,0 +1,10 @@
+Inside EDA
+  Test is huge, but doesn’t contain target variable, hence will be consider Train for EDA 
+  Looking into min, max, mean values of numerical features Item Weight, Visibility, MRP
+  No outliers present
+  From co-relation and chi-square, the features to use were fixed
+Inside Train
+  Pre processing is done
+  Cross validation is done
+  Best model is saved
+
